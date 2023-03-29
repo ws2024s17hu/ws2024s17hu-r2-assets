@@ -1,2 +1,2 @@
 "# assets" 
-"# es2023s17hu-r2-assets" 
+"# ws2024s17hu-r2-assets" 
